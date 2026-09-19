@@ -90,6 +90,7 @@
 
 ## AI & Agents
 
+- [Mosaik](https://github.com/luantak/mosaik) - CLI and library where an agent learns reusable per-site actions as TypeScript, composes them into automations, and executes them with Playwright without a model call per step.
 - [Playwright Agent CLI](https://playwright.dev/agent-cli/introduction) - Official command-line interface for browser automation designed for coding agents, with token-efficient commands and installable skills.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Official Model Context Protocol server that gives LLMs browser automation via Playwright accessibility snapshots.
 - [Webcmd](https://github.com/agentrhq/webcmd) - CLI built on Playwright that learns a site's navigation once and compiles it into deterministic per-site commands for coding agents.
